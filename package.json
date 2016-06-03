@@ -1,0 +1,28 @@
+{
+  "name": "Express",
+  "version": "0.0.1",
+  "description": "Express Basics Treehouse Course",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ivpadim/express.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "Ivan Padron",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivpadim/express/issues"
+  },
+  "homepage": "https://github.com/ivpadim/express",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "express": "^4.13.4",
+    "jade": "^1.11.0"
+  }
+}
